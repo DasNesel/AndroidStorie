@@ -1,0 +1,14 @@
+{
+    "isGameOver": true,
+    "actions": [
+        {
+            "id": 6,
+            "description" : "Je pars en courant, sans le voir je me prends les pieds dans un linge et tombe dans les escaliers. Au cours de la chute, tu te brises la nuque !"
+        },
+        {
+            "id": 10,
+            "description" : "Le garde en avant à moitié bourré rate une marche et chute. Il vous entaine dans sa chute et vous mourrez perforer par la son épée.",
+            "isGameOver": true
+        }
+    ]
+}
